@@ -25,3 +25,10 @@ Antes é importante que você se sinta confortável para estudar, então eu fiz 
 
 Porém aí que ta... não existe essas palavras em java. Procedimentos, comandos, ações são todas consideradas como **métodos** 
   >Eu sei que isso é meio confuso, você não está sozinho nessa... mas com tempo você pega.
+
+  Um objeto é algo que pode ser manipulado e é criado por aquela coisa de instaciamento que eu citei lá em cima.
+  >Os objetos são separados com o conceito de `this` ou `self` mas eu não sei muito bem ainda... desculpem
+
+  Cada clase determina o comportamento (ou você pode dizer as ações) que são definidos nos métodos e os atributos de seus objetos.
+
+
