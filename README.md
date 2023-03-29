@@ -18,3 +18,10 @@ Antes é importante que você se sinta confortável para estudar, então eu fiz 
 
 # Classe
 
+  Uma classe é o elemento do código que utilizamos para representar objetos do mundo real. Dentro dela é comum declarar atributos e métodos.
+  > Eu tenho uma forma mais simples de explicar isso
+  
+  Uma televisão seria uma classe, a televisão tem características como: a marca, o volume, canal, polegadas; isso seria os atributos e ligar, desligar, mudar de canal, aumentar o volume seriam os comandos, procedimentos certo?
+
+Porém aí que ta... não existe essas palavras em java. Procedimentos, comandos, ações são todas consideradas como **métodos** 
+  >Eu sei que isso é meio confuso, você não está sozinho nessa... mas com tempo você pega.
