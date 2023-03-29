@@ -3,6 +3,8 @@ idk i just made it to help some friends
 
 Eu estou estudando sobre classes e decidi fazer um repositório sobre algo que eu me interessasse
 
+Antes é importante que você se sinta confortável para estudar, então eu fiz uma playlist [spotify playlist](https://open.spotify.com/playlist/02ixNQf3bohvyds3j0GvEV?si=9b30dc88b95a4c55)
+
 # Introdução
 
   Basicamente o java é uma linguagem orientada a objeto, existem outras linguagens que também seguem a mesma linha de raciocínio como o Python, JavaScipt, Ruby, etc... 
