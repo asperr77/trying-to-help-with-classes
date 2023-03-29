@@ -31,7 +31,7 @@ Porém aí que ta... não existe essas palavras em java. Procedimentos, comandos
 
   Cada clase determina o comportamento (ou você pode dizer as ações) que são definidos nos métodos e os atributos de seus objetos.
 
-> Esse assunto é meio confuso para quem nunca viu essas coisas, então é algumas videoaulas também ajudam o processo de aprendizagem 
+> Esse assunto é meio confuso para quem nunca viu essas coisas, então é algumas videoaulas também ajudam o processo de aprendizagem [^1][^2]
 
 [^1]: [Progrmação orientada a objetos](https://www.youtube.com/watch?v=XlgCv5zE-L0)
 [^2]: [wikipedia falando sobre OOP](https://pt.wikipedia.org/wiki/Orienta%C3%A7%C3%A3o_a_objetos)
