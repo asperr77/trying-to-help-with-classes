@@ -3,7 +3,7 @@ idk i just made it to help some friends
 
 Eu estou estudando sobre classes e decidi fazer um repositório sobre algo que eu me interessasse
 
-# Classes
+# Introdução
 
   Basicamente o java é uma linguagem orientada a objeto, existem outras linguagens que também seguem a mesma linha de raciocínio como o Python, JavaScipt, Ruby, etc... 
   
