@@ -7,7 +7,7 @@ Antes é importante que você se sinta confortável para estudar, então eu fiz 
 
 # Introdução
 
-  Basicamente o java é uma linguagem orientada a objeto, existem outras linguagens que também seguem a mesma linha de raciocínio como o Python, JavaScipt, Ruby, etc... 
+  Basicamente o java é uma linguagem orientada a objeto, existem outras linguagens que também seguem a mesma linha de raciocínio como o Python, Ruby, etc... 
   
   Esse termo Progamação Orientada a Objetos é um modelo que tenta transformar tudo em objetos, assim os objetos passam mensagens de uns para os outros, logo cada objeto decide o que fazer com a mensagem recebida.
    O java é baseado em classes, usando objetos que podem ser manipulados, criado a partir de uma classe através do instaciamento.
