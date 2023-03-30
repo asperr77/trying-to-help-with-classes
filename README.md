@@ -59,6 +59,15 @@ public class Main {
     Main myObj2 = new Main();  // Objeto 2
   }
 }
+  Nesses casos você está criando objetos na sua classe Main o que em um software pequeno não faz tanta diferença, porém quanto mais o desenvolvimento acontece se tem a necessidade de criar novas classes para que fique mais organizado, e que não fique confuso.
+  
+ # Objetos em múltiplas classes
+ 
+  Nesse caso não muda muito, se você entendeu como cria um objeto não terá muitas dificuldades para criar em outras classes.
+  
+  > O único problema maior é saber como "linkar" essas classes para que fazer com que todas se comuniquem
+
+
   
 # Atribuição a Classes
 
