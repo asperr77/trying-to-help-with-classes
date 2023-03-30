@@ -49,6 +49,17 @@ public class Main {
 
   Por exemplo, aqui você está criando um objeto chamado myObj
   
+ Você também pode criar vários objetos
+ 
+ public class Main {
+
+
+  public static void main(String[] args) {
+    Main myObj1 = new Main();  // Objeto 1
+    Main myObj2 = new Main();  // Objeto 2
+  }
+}
+  
 # Atribuição a Classes
 
   Atribuir valores não deveria ser algo que você deve ter dúvidas nessa etapa do campeonato, mas eu posso te relembrar o que é
