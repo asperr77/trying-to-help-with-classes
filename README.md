@@ -36,6 +36,19 @@ Porém aí que ta... não existe essas palavras em java. Procedimentos, comandos
 [^1]: [Progrmação orientada a objetos](https://www.youtube.com/watch?v=XlgCv5zE-L0)
 [^2]: [wikipedia falando sobre OOP](https://pt.wikipedia.org/wiki/Orienta%C3%A7%C3%A3o_a_objetos)
 
+# Objetos
+
+Em java, um objeto é criado a partir de uma classe. 
+
+public class Main {
+
+  public static void main(String[] args) {
+    Main myObj = new Main();
+  }
+}
+
+  Por exemplo, aqui você está criando um objeto chamado myObj
+  
 # Atribuição a Classes
 
   Atribuir valores não deveria ser algo que você deve ter dúvidas nessa etapa do campeonato, mas eu posso te relembrar o que é
