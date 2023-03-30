@@ -39,7 +39,10 @@ Porém aí que ta... não existe essas palavras em java. Procedimentos, comandos
 # Atribuição a Classes
 
   Atribuir valores não deveria ser algo que você deve ter dúvidas nessa etapa do campeonato, mas eu posso te relembrar o que é
-    `public class Main {
+    
+    public class Main {
       int x = 5;
       int y = 3;
-    }`
+    }
+ Basicamente assim você está definindo atributos ou seja valores a variáveis
+> Mas se mesmo assim você não domina esse processo ou tem alguma dúvida, significa que você está se adiantando demais
