@@ -67,7 +67,24 @@ public class Main {
   
   > O único problema maior é saber como "linkar" essas classes para que fazer com que todas se comuniquem
 
+ Assim vamos fingir que criamos duas classes
+  - Main.java
+  - Second.java
+  
+  Main.java
 
+public class Main {
+  int x = 5;
+}
+
+  Second.java
+
+class Second {
+  public static void main(String[] args) {
+    Main myObj = new Main();
+    System.out.println(myObj.x);
+  }
+}
   
 # Atribuição a Classes
 
