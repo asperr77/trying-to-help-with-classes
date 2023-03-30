@@ -37,3 +37,9 @@ Porém aí que ta... não existe essas palavras em java. Procedimentos, comandos
 [^2]: [wikipedia falando sobre OOP](https://pt.wikipedia.org/wiki/Orienta%C3%A7%C3%A3o_a_objetos)
 
 # Atribuição a Classes
+
+  Atribuir valores não deveria ser algo que você deve ter dúvidas nessa etapa do campeonato, mas eu posso te relembrar o que é
+    `public class Main {
+      int x = 5;
+      int y = 3;
+    }`
